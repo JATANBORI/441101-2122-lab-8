@@ -1,0 +1,16 @@
+C:\Users\625593\Desktop\Transforming Programmes\Programming Portfolio - Spec\Notes\Lectures\T1\Labs\codes\Practice8\practice-lab-8-ATANBORI\L8.4-WordCount\bin\Debug\net5.0\L8.4-WordCount.exe
+C:\Users\625593\Desktop\Transforming Programmes\Programming Portfolio - Spec\Notes\Lectures\T1\Labs\codes\Practice8\practice-lab-8-ATANBORI\L8.4-WordCount\bin\Debug\net5.0\L8.4-WordCount.deps.json
+C:\Users\625593\Desktop\Transforming Programmes\Programming Portfolio - Spec\Notes\Lectures\T1\Labs\codes\Practice8\practice-lab-8-ATANBORI\L8.4-WordCount\bin\Debug\net5.0\L8.4-WordCount.runtimeconfig.json
+C:\Users\625593\Desktop\Transforming Programmes\Programming Portfolio - Spec\Notes\Lectures\T1\Labs\codes\Practice8\practice-lab-8-ATANBORI\L8.4-WordCount\bin\Debug\net5.0\L8.4-WordCount.runtimeconfig.dev.json
+C:\Users\625593\Desktop\Transforming Programmes\Programming Portfolio - Spec\Notes\Lectures\T1\Labs\codes\Practice8\practice-lab-8-ATANBORI\L8.4-WordCount\bin\Debug\net5.0\L8.4-WordCount.dll
+C:\Users\625593\Desktop\Transforming Programmes\Programming Portfolio - Spec\Notes\Lectures\T1\Labs\codes\Practice8\practice-lab-8-ATANBORI\L8.4-WordCount\bin\Debug\net5.0\ref\L8.4-WordCount.dll
+C:\Users\625593\Desktop\Transforming Programmes\Programming Portfolio - Spec\Notes\Lectures\T1\Labs\codes\Practice8\practice-lab-8-ATANBORI\L8.4-WordCount\bin\Debug\net5.0\L8.4-WordCount.pdb
+C:\Users\625593\Desktop\Transforming Programmes\Programming Portfolio - Spec\Notes\Lectures\T1\Labs\codes\Practice8\practice-lab-8-ATANBORI\L8.4-WordCount\obj\Debug\net5.0\L8.4-WordCount.csprojAssemblyReference.cache
+C:\Users\625593\Desktop\Transforming Programmes\Programming Portfolio - Spec\Notes\Lectures\T1\Labs\codes\Practice8\practice-lab-8-ATANBORI\L8.4-WordCount\obj\Debug\net5.0\L8.4-WordCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\625593\Desktop\Transforming Programmes\Programming Portfolio - Spec\Notes\Lectures\T1\Labs\codes\Practice8\practice-lab-8-ATANBORI\L8.4-WordCount\obj\Debug\net5.0\L8.4-WordCount.AssemblyInfoInputs.cache
+C:\Users\625593\Desktop\Transforming Programmes\Programming Portfolio - Spec\Notes\Lectures\T1\Labs\codes\Practice8\practice-lab-8-ATANBORI\L8.4-WordCount\obj\Debug\net5.0\L8.4-WordCount.AssemblyInfo.cs
+C:\Users\625593\Desktop\Transforming Programmes\Programming Portfolio - Spec\Notes\Lectures\T1\Labs\codes\Practice8\practice-lab-8-ATANBORI\L8.4-WordCount\obj\Debug\net5.0\L8.4-WordCount.csproj.CoreCompileInputs.cache
+C:\Users\625593\Desktop\Transforming Programmes\Programming Portfolio - Spec\Notes\Lectures\T1\Labs\codes\Practice8\practice-lab-8-ATANBORI\L8.4-WordCount\obj\Debug\net5.0\L8.4-WordCount.dll
+C:\Users\625593\Desktop\Transforming Programmes\Programming Portfolio - Spec\Notes\Lectures\T1\Labs\codes\Practice8\practice-lab-8-ATANBORI\L8.4-WordCount\obj\Debug\net5.0\ref\L8.4-WordCount.dll
+C:\Users\625593\Desktop\Transforming Programmes\Programming Portfolio - Spec\Notes\Lectures\T1\Labs\codes\Practice8\practice-lab-8-ATANBORI\L8.4-WordCount\obj\Debug\net5.0\L8.4-WordCount.pdb
+C:\Users\625593\Desktop\Transforming Programmes\Programming Portfolio - Spec\Notes\Lectures\T1\Labs\codes\Practice8\practice-lab-8-ATANBORI\L8.4-WordCount\obj\Debug\net5.0\L8.4-WordCount.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "L8.2-CountVowelsAndConsonants/1.0.0": {
+        "runtime": {
+          "L8.2-CountVowelsAndConsonants.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "L8.2-CountVowelsAndConsonants/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
