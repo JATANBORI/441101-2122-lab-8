@@ -1,1 +1,3 @@
-# 441101-2122-lab-8
+# Practice Lab 8 – String Manipulation
+
+This week’s practice lab is designed to help you familiarise yourself with the string datatype. A string is a unique datatype because many things that have been mentioned as characteristics of fundamental types do not apply to strings. For example, a string can be a variable size in memory. This is because strings are more than just basic types, but have been manipulated to behave more like basic types that they really are. Another feature of strings is that they have a significant amount of functionality built in. In this lab you will explore some of that functionality.
